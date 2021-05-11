@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Imagenes/1211809807.png</file>
+        <file>Imagenes/Humidity-icon.png</file>
+        <file>Imagenes/slight_drizzle_256.png</file>
+        <file>Imagenes/unnamed.png</file>
+    </qresource>
+</RCC>
